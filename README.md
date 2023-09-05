@@ -17,10 +17,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arjungehlot552&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjungehlot552&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arjungehlot552&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
@@ -29,4 +27,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Arjungehlot552&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- 01000001 01110010 01101010 01110101 01101110 -->
